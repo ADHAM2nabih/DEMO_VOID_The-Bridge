@@ -1,0 +1,18 @@
+void-sign-mvp/
+│
+├── backend/
+│   ├── app.py
+│   ├── model.py
+│   ├── inference.py
+│   ├── feature_extractor.py
+│   ├── model_weights.pth
+│   ├── requirements.txt
+│   └── Dockerfile
+│
+├── frontend/
+│   ├── index.html
+│   ├── app.js
+│   └── Dockerfile
+│
+├── docker-compose.yml
+└── README.md
